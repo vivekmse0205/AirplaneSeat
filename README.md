@@ -1,0 +1,2 @@
+# AirplaneSeat
+Airplane seating algorithm
